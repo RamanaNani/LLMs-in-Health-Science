@@ -53,5 +53,5 @@ https://github.com/RamanaNani/LLMs-in-Health-Science.git
 Models which are pretrained on medical corpora are getting better results as compared to base models. Try with Data Augmentation which may result in better predictions.
 
 ## Architecture
-![Logo](Architecture.png )
+![Logo](Architecture.png)
 
